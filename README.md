@@ -1,5 +1,9 @@
 # OpenScope MZ 
 
+- PinOut
+
+![alt_tag](https://reference.digilentinc.com/_media/reference/instrumentation/openscope-mz/openscope-mz-pinout.png?w=400&tok=50085f)
+
 
 # Tutorial
 
